@@ -1,3 +1,5 @@
+# 第 0010 题：使用python生成字母验证码图片
+
 from PIL import Image, ImageFilter, ImageFont, ImageDraw
 import random
 
