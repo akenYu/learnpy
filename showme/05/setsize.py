@@ -1,4 +1,4 @@
-# 第 0005 题：把目录中的所有照片的尺寸变成都不大于iPhone5分辨率的大小
+﻿# 第 0005 题：把目录中的所有照片的尺寸变成都不大于iPhone5分辨率的大小
 
 import os
 from PIL import Image
